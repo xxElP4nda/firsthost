@@ -2,6 +2,13 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import './App.css';
 import Lyon1 from './Lyon1';
+import Lyon2 from './Lyon2';
+import Lyon3 from './Lyon3';
+import Lyon4 from './Lyon4';
+import Lyon5 from './Lyon5';
+import Lyon6 from './Lyon6';
+import Lyon7 from './Lyon7';
+import Endtoor from './Endtoor';
 
 function Home() {
   return <body>
@@ -45,6 +52,13 @@ function App() {
         <Route path="/about" element={<About />} />
         <Route path="/start" element={<Start />} />
         <Route path="/Lyon1" element={<Lyon1 />} />
+        <Route path="/Lyon2" element={<Lyon2 />} />
+        <Route path="/Lyon3" element={<Lyon3 />} />
+        <Route path="/Lyon4" element={<Lyon4 />} />
+        <Route path="/Lyon5" element={<Lyon5 />} />
+        <Route path="/Lyon6" element={<Lyon6 />} />
+        <Route path="/Lyon7" element={<Lyon7 />} />
+        <Route path="/endtoor" element={<Endtoor />} />
       </Routes>
     </Router>
   );
