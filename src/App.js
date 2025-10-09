@@ -34,7 +34,8 @@ function About() {
 function Start() {
   return <body>
     <h2>Let's start the tOOr!</h2>
-    <img src="/Users/thomascollet/Desktop/artooro/src/thomaspp.png" />
+    <img src="https://lh3.googleusercontent.com/gps-cs-s/AC9h4npjtRQsMORG_BCgVLVkqCoBfKQa1Lt3C6z3jyWFcmKGoxkFBLUvyOIxp2mWPf7ywoYdy3uCSay8HPLjWtBFivHk0pqwdbbOp0O-fhhzOkuiU4veVZcVdDKccNfbhPgkwwK8Xq4Q=w1080-h624-n-k-no"></img>
+    <p></p>
     <Link to="/Lyon1">Lyon</Link>
     </body>
 }
