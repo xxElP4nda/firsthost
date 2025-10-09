@@ -14,9 +14,12 @@ function Home() {
   return <body>
     <h2>Home Page</h2>
     <p>Extremely proud to present you the first version of Artooro.</p>
-    <p>An immersive experience as you never lived it.</p>
-    <p>Created by locals to be shared with you.</p>
+    <p>A new immersive experience to enrich your journey.</p>
+    <p>Created by locals for you.</p>
     <p>Enjoy the Toor !</p>
+    <div> <p> </p></div>
+    <p><i>My wealth and treasure? It can be yours if you want it! Search for it! I left everything in that one place.</i></p>
+    <p>Gol D. Roger</p>
     </body>;
 }
 
@@ -34,9 +37,14 @@ function About() {
 function Start() {
   return <body>
     <h2>Let's start the tOOr!</h2>
-    <img src="https://lh3.googleusercontent.com/gps-cs-s/AC9h4npjtRQsMORG_BCgVLVkqCoBfKQa1Lt3C6z3jyWFcmKGoxkFBLUvyOIxp2mWPf7ywoYdy3uCSay8HPLjWtBFivHk0pqwdbbOp0O-fhhzOkuiU4veVZcVdDKccNfbhPgkwwK8Xq4Q=w1080-h624-n-k-no"></img>
-    <p></p>
-    <Link to="/Lyon1">Lyon</Link>
+      <p>I am glad you did not chicken out, and join this adventoor.</p>
+      <p>You will not be disapointed!</p>
+      <p>My name is Artooro, and I will be your personal guide during your trip.</p>
+      <p>Me and my colleagues will provide you informations, advice and also little anecdotes from here to there.</p>
+      <p>Oh, and I also love foreign languages!</p>
+      <p>So hopefully, you'll learn some new words.</p>
+      <h3>So now, tell me where are we heading to?</h3>
+    <Link to="/Lyon1">Lyon https://maps.app.goo.gl/mbh5ToiV7ixU6Sqn9</Link>
     </body>
 }
 
