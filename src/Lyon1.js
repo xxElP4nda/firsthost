@@ -15,7 +15,7 @@ function StartPage() {
       <p>And apparently it was not only a legend. Because in 1966, they discovered a lead case under it.</p>
       <p>Once the safe was opened, only water came out. Everybody around felt delulu.</p>
       <p>Until they quickly spotted that the safe had a secret compartment.</p>
-      <p>And then. Boom. Some old medals and gold coins. Not yet Gol D. Roger, but still something!</p>
+      <p>And then. Boom. Some old medals and gold coins. Not yet Gol D. Roger's treasure, but still something!</p>
       <p>Well, to continue I will ask you a question. You better answer right.</p>
       <p>Can you tell the name of the Horse rider?</p>
       <Link to="/Lyon2">
