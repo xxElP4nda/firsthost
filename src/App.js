@@ -8,6 +8,13 @@ import Lyon4 from './Lyon4';
 import Lyon5 from './Lyon5';
 import Lyon6 from './Lyon6';
 import Lyon7 from './Lyon7';
+import Lyon8 from './Lyon8';
+import Lyon9 from './Lyon9';
+import Lyon10 from './Lyon10';
+import Lyon11 from './Lyon11';
+import Lyon12 from './Lyon12';
+import Lyon13 from './Lyon13';
+import Lyon14 from './Lyon14';
 import Endtoor from './Endtoor';
 
 function Home() {
@@ -67,6 +74,13 @@ function App() {
         <Route path="/Lyon5" element={<Lyon5 />} />
         <Route path="/Lyon6" element={<Lyon6 />} />
         <Route path="/Lyon7" element={<Lyon7 />} />
+        <Route path="/Lyon8" element={<Lyon8 />} />
+        <Route path="/Lyon9" element={<Lyon9 />} />
+        <Route path="/Lyon10" element={<Lyon10 />} />
+        <Route path="/Lyon11" element={<Lyon11 />} />
+        <Route path="/Lyon12" element={<Lyon12 />} />
+        <Route path="/Lyon13" element={<Lyon13 />} />
+        <Route path="/Lyon14" element={<Lyon14 />} />
         <Route path="/endtoor" element={<Endtoor />} />
       </Routes>
     </Router>
