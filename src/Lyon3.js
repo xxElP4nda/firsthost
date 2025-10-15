@@ -11,19 +11,20 @@ function StartPage() {
       <img src="https://placekitten.com/400/200" alt="Cute kitten" />
       <p>Beautiful view over there, you will see... </p>
       <h2>Napoléon Bonaparte, the Lo-Fi Girl and les Tartelettes à la praline.</h2>
-      <p>You are now standing on Bonaparte's bridge on your way to Place Saint-Paul.</p>
+      <p>You are now standing on Bonaparte's bridge on your way to Place Saint-Jean.</p>
       <p>Yeah, Bonaparte as in Napoléon Bonaparte. The same guy who ruled a huge Empire all over Europe and got stopped by the Russians.</p>
       <p>Strong Russians in wintery conditions. What can you do?</p>
       <p>By the way, did you know that Napoléon Bonaparte, was not that small, he was about 1,70m (5ft, 7in).</p>
       <p>Oops, I'm getting lost again.</p>
       <h2>Alright, it's selfie time!</h2>
       <p>Once you reach the bridge, take a look on your right. These are knowns as "Les Pentes de Croix-Rousse".</p>
-      <p>Beautiful isn't it? And if you are familiar with the LoFi Girl, these landscapes might remind you of something.</p>
-      <p>And for those who don't know her yet, <Link to="https://www.youtube.com/watch?v=CFGLoQIhmow&t=219s">there she is.</Link>.</p>
+      <p>Beautiful isn't it? And if you are familiar with the Lo-Fi Girl, these landscapes might remind you of something.</p>
+      <p>And for those who don't know her yet, <Link to="https://www.youtube.com/watch?v=CFGLoQIhmow&t=219s">there she is</Link>.</p>
       <p>She helped many people all around the world to study and focus deeply into different tasks.</p>
       <p>Now, you can take a selfie, or ask someone to take a picture for you!</p>
       <p>Once you finished selfying yourself around, don't hesitate to post it and tag @artooro.world on your instagram.</p>
       <p>We appreciate it. Really. It helps us putting money on the bank account, so we can make a morning Teambuilding around a delicious Tartelette à la Praline.</p>
+      <p>Keep walking. We'll talk about it later.</p>
       <p>Ok, so now you've crossed the Bridge, cross the street. </p>
       <p>Keep straight and then you should see the Place Saint-Jean on your right.</p>
       <p>Tricky question for you. What is the French word for "Sun"?</p>
