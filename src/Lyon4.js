@@ -11,11 +11,7 @@ function StartPage() {
       <p>It's a beautiful example of Gothic architecture, and it's definitely worth a visit inside!</p>
       <p>Did you know that the cathedral has a mix of Romanesque and Gothic styles due to its long construction period?</p>
       <p>Take your time to explore the area, and don't forget to look up at the clock when you're inside!</p>
-      <p>By the way, do you know what "cathedral" is in French?</p>
-      <Link to="https://media1.tenor.com/m/VUQaWMnKtgAAAAAd/no-let-me-think.gif"><button>Église</button></Link>
-      <Link to="https://media1.tenor.com/m/Ryw0q9D6ra0AAAAC/haha-gumichan.gif"><button>Basilique</button></Link>
-      <Link to="https://media1.tenor.com/m/4cX4gkJmX8AAAAAC/think-hard-thinking.gif"><button>Cathedrale</button></Link>
-      <p>Once you're ready, head towards the Rue du Bœuf, a charming street filled with history and character.</p>
+      <p>Once you're ready, head towards the Rue du Bœuf, a charming street filled with history, food smell and character.</p>
       <p>It's just a short walk from here, and you'll find some great spots for food and drinks along the way!</p>
       <p>Talking about food, you will see many "Bouchons" along the way.</p>
       <p>These are traditional Lyonnais restaurants where you can try local specialties like "Saucisson Lyonnais", "Oeuf meurette" and "Andouillette".</p>

@@ -4,7 +4,8 @@ import { Link } from 'react-router-dom';
 function StartPage() {
   return (
     <div>
-      <img src="https://placekitten.com/400/200" alt="Cute kitten" />
+      <h3>Shoutouts to Lucas!</h3>
+      <p>Unfortunately, he won't be able to help you there...</p>
       <p>Please come and visit <Link to="https://maps.app.goo.gl/oLURsmTGBrZ2a6XC6">the traboule here</Link>.</p>
       <p>But be quiet, you are walking under people's houses.</p>
       <p>Once you're done, just FYI, there are also the Cinema's museum and the silk museum.</p>

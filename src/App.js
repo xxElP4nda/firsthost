@@ -59,6 +59,7 @@ function Start() {
       <p>So hopefully, you'll learn some new words.</p>
       <h3>So now, tell me where are we heading to?</h3>
     <Link to="/Lyon1">Lyon https://maps.app.goo.gl/mbh5ToiV7ixU6Sqn9</Link>
+    <p> </p>
     </body>
 }
 
