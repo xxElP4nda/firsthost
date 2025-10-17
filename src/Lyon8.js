@@ -10,7 +10,8 @@ function StartPage() {
       <p>Never gonna give you up! Never gonna let you down! Never gonna run around and... desert you ! </p>
       <p>Well, now that you have came up that far, that you've taken each single step towards success, I hope that you are proud of you.</p>
       <p>Because you can totally be. It requires to be in good shape to do so.</p>
-      <p>So, it is time for a reward. Close to the Basilique, you will see the skyline of Lyon.</p>
+      <p>So, it is time for a reward. Close to the Basilic, you will see the skyline of Lyon.</p>
+      <img src="https://www.usinenouvelle.com/mediatheque/0/0/1/000801100_896x598_c.jpg" alt="Lyon Skyline"></img>
       <p>A whole vision from where we started, if you can spot Place Bellecour.</p>
       <p>In front of you, some buildings that are now part of Lyon's landscape.</p>
       <p>The Tour Part-Dieu, as known as "le crayon", litterally the pencil, is very easy to spot.
@@ -31,7 +32,7 @@ function StartPage() {
       <p>In a Cathedral seats a Bishop. A Basilic has a strong bond to history and cult, and the title was given by the Pope.</p>
       <h3>Want more?</h3>
       <Link to="/Lyon9">
-        <button>Please, one more time</button>
+        <button>One more time!</button>
       </Link>
       <Link to="/endtoor"><button>No, thanks. I want to go home, my feet hurt!</button></Link>
     </div>

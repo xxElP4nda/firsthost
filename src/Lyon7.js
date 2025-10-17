@@ -11,6 +11,7 @@ function StartPage() {
       <p>You know, success is made of a lot of little victories.</p>
       <p>Everyone can take it at his own pace, but at the end of the game, you will be on top of the mountain.</p>
       <p>See where I am heading you to?</p>
+      <img src="https://www.philippeaubrun.fr/_media/img/large/dsc4933-dxo-1.jpg" alt="montée des carmes"></img>
       <p>Alright, Led Zeppelin. It's time to meet at the <Link to="https://maps.app.goo.gl/DHZbD1rTEznhMQtv8">stairway to heaven</Link>.</p>
       <p>For those who can't climb stairs, you can take <Link to="https://maps.app.goo.gl/vJSHgpgMMxy7Qc8Y8">la ficelle de Lyon</Link>, which is how we call the funicular.
       Just go there and, take the F2 line towards Fourvière, and wait for your companions.</p>

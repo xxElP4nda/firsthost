@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 function StartPage() {
   return (
     <div>
-      <img src="https://placekitten.com/400/200" alt="Cute kitten" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Place_Saint-Jean_%C3%A0_Lyon.jpg" alt="Place Saint Jean-Baptiste" />
       <p>Welcome to the Place Saint-Jean!</p>
       <p>Here you can see the famous Cathédrale Saint-Jean-Baptiste de Lyon.</p>
       <p>This cathedral is known for its unique astronomical clock, which dates back to the 14th century.</p>

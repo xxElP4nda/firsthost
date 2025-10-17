@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 function StartPage() {
   return (
     <div>
-      <img src="https://placekitten.com/400/200" alt="Cute kitten" />
+      <img src="https://media.istockphoto.com/id/921980974/fr/photo/sculpture-de-sun-sur-un-b%C3%A2timent-%C3%A0-lille-france.jpg?s=1024x1024&w=is&k=20&c=fkxGN_Qqhe3gvCplLJMa4JhteqqXyEt2u40gO2uWiG8=" alt="Soleil" />
       <p>Well done, or maybe you just realized that pushing the other buttons was useless.</p>
       <p>Louis XIV was known as "Le Roi Soleil", and it does not have anything to do with his talent in astrophysics.</p>
       <p>"Roi Soleil", litterally translates into "Sun King", and it is related to the king's surdimensionated ego.</p>
