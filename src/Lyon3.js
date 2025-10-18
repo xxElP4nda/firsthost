@@ -11,7 +11,7 @@ function StartPage() {
       <p>Good, now you have to cross the whole Place Bellecour, exiting it from its upper right corner and continue towards the Pont Bonaparte.</p>
       <img src="https://www.grandlyon.com/fileadmin/_processed_/9/5/csm_Actu_Pont-Bonaparte__-J%C3%A9r%C3%A9my-Cuenin-M%C3%A9tropole-de-Lyon_88a5b9bc9d.webp" alt="Pont Bonaparte" />
       <p>Beautiful view over there, you will see... </p>
-      <h3>Napoléon Bonaparte, the Lo-Fi Girl and les Tartelettes à la praline.</h3>
+      <h3>Napoléon Bonaparte and the Lo-Fi Girl!</h3>
       <p>You are now standing on Bonaparte's bridge on your way to Place Saint-Jean.</p>
       <p>Yeah, Bonaparte as in Napoléon Bonaparte. The same guy who ruled a huge Empire all over Europe and got stopped by the Russians.</p>
       <p>Strong Russians in wintery conditions. What can you do?</p>
