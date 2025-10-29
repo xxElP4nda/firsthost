@@ -79,7 +79,6 @@ function Start() {
     </body>
 }
 
-/* 
 
 function Creatoor() {
   return <body>
@@ -93,7 +92,6 @@ function Creatoor() {
   </body>
 }
 
-*/
 
 function App() {
   return (
@@ -102,13 +100,13 @@ function App() {
         <Link to="/">Home</Link> |{' '}
         <Link to="/about">About</Link>
         <Link to="/start">Start</Link>
- /*       <Link to="/creatoor">Creatoor</Link> */
+        <Link to="/creatoor">Creatoor</Link>
       </nav>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/start" element={<Start />} />
- /*       <Route path="/creatoor" element={<Creatoor />} /> */
+        <Route path="/creatoor" element={<Creatoor />} /> 
         <Route path="/Lyon1" element={<Lyon1 />} />
         <Route path="/Lyon2" element={<Lyon2 />} />
         <Route path="/Lyon3" element={<Lyon3 />} />
