@@ -89,6 +89,10 @@ function Creatoor() {
     <h3>Get rewarded!</h3>
     <p>Thanks to your visitoors, you will be able to get tips and improve each one of your toors!</p>
     <p>So you will directly know how pleasant it was, what you can keep, and how you can propose better experiences!</p>
+    <p>Of course, it takes time and effort to build a toor.</p>
+    <p>Therefore we will share with you the benefits!</p>
+    <h3>Want to contribute?</h3>
+    <p>Join us <Link to="https://forms.gle/9HKQGTt4E9W2VLnD7"><strong>HERE</strong></Link>!</p>
   </body>
 }
 
