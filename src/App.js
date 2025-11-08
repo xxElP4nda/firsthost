@@ -66,7 +66,7 @@ function About() {
 
 function Start() {
   return <body>
-    <h2>Let's start the tOOr!</h2>
+    <h2>Let's start the Toor!</h2>
       <img src={pandartooro} alt="Artooro" width="200" height="200"/>
       <p>My name is Artooro, and I will be your personal guide during your trip.</p>
       <p>I am glad you did not chicken out, and join this adventoor.</p>
