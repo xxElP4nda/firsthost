@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 function StartPage() {
   return (
     <div>
-    <img src="https://media.lyon-france.com/1600x600/131373/333875.jpg"></img>
+    <img src="https://media.lyon-france.com/1600x600/131373/333875.jpg" alt="Place Bellecour"></img>
       <h2>Welcome to Place Bellecour!</h2>
       <p>Just to be sure you are at the right place, check if you are <Link to="https://maps.app.goo.gl/mbh5ToiV7ixU6Sqn9">here</Link> before you start</p>
       <p>The Place Bellecour is one of the most iconic places of Lyon.</p>

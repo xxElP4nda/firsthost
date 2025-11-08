@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 function StartPage() {
   return (
     <div>
-     <img src="https://media.lyon-france.com/1600x600/131373/333875.jpg"></img>
+     <img src="https://media.lyon-france.com/1600x600/131373/333875.jpg" alt="Place Bellecour"></img>
      <h2>Bienvenue à la Place Bellecour !</h2> 
      <p>Juste pour être sûr que vous êtes au bon endroit, vérifiez si vous êtes <Link to="https://maps.app.goo.gl/mbh5ToiV7ixU6Sqn9">ici</Link> avant de commencer.</p> 
      <p>La Place Bellecour est l’un des lieux les plus emblématiques de Lyon.</p> 

@@ -16,21 +16,21 @@ import Lyon12 from './Lyon12';
 import Lyon13 from './Lyon13';
 import Lyon14 from './Lyon14';
 import Endtoor from './Endtoor';
-import FR_Lyon1 from './FR_Lyon1';
-import FR_Lyon2 from './FR_Lyon2';
-import FR_Lyon3 from './FR_Lyon3';
-import FR_Lyon4 from './FR_Lyon4';
-import FR_Lyon5 from './FR_Lyon5';
-import FR_Lyon6 from './FR_Lyon6';
-import FR_Lyon7 from './FR_Lyon7';
-import FR_Lyon8 from './FR_Lyon8';
-import FR_Lyon9 from './FR_Lyon9';
-import FR_Lyon10 from './FR_Lyon10';
-import FR_Lyon11 from './FR_Lyon11';
-import FR_Lyon12 from './FR_Lyon12';
-import FR_Lyon13 from './FR_Lyon13';
-import FR_Lyon14 from './FR_Lyon14';
-import FR_Endtoor from './FR_Endtoor';
+import FRLyon1 from './FRLyon1';
+import FRLyon2 from './FRLyon2';
+import FRLyon3 from './FRLyon3';
+import FRLyon4 from './FRLyon4';
+import FRLyon5 from './FRLyon5';
+import FRLyon6 from './FRLyon6';
+import FRLyon7 from './FRLyon7';
+import FRLyon8 from './FRLyon8';
+import FRLyon9 from './FRLyon9';
+import FRLyon10 from './FRLyon10';
+import FRLyon11 from './FRLyon11';
+import FRLyon12 from './FRLyon12';
+import FRLyon13 from './FRLyon13';
+import FRLyon14 from './FRLyon14';
+import FREndtoor from './FREndtoor';
 import pandartooro from './pandartooro.png';
 import CateCorsucci from './CateCorsucci';
 
@@ -127,21 +127,21 @@ function App() {
         <Route path="/Lyon13" element={<Lyon13 />} />
         <Route path="/Lyon14" element={<Lyon14 />} />
         <Route path="/endtoor" element={<Endtoor />} />
-        <Route path="/FR_Lyon1" element={<FR_Lyon1 />} />
-        <Route path="/FR_Lyon2" element={<FR_Lyon2 />} />
-        <Route path="/FR_Lyon3" element={<FR_Lyon3 />} />
-        <Route path="/FR_Lyon4" element={<FR_Lyon4 />} />
-        <Route path="/FR_Lyon5" element={<FR_Lyon5 />} />
-        <Route path="/FR_Lyon6" element={<FR_Lyon6 />} />
-        <Route path="/FR_Lyon7" element={<FR_Lyon7 />} />
-        <Route path="/FR_Lyon8" element={<FR_Lyon8 />} />
-        <Route path="/FR_Lyon9" element={<FR_Lyon9 />} />
-        <Route path="/FR_Lyon10" element={<FR_Lyon10 />} />
-        <Route path="/FR_Lyon11" element={<FR_Lyon11 />} />
-        <Route path="/FR_Lyon12" element={<FR_Lyon12 />} />
-        <Route path="/FR_Lyon13" element={<FR_Lyon13 />} />
-        <Route path="/FR_Lyon14" element={<FR_Lyon14 />} />
-        <Route path="/FR_endtoor" element={<FR_Endtoor />} />
+        <Route path="/FRLyon1" element={<FRLyon1 />} />
+        <Route path="/FRLyon2" element={<FRLyon2 />} />
+        <Route path="/FRLyon3" element={<FRLyon3 />} />
+        <Route path="/FRLyon4" element={<FRLyon4 />} />
+        <Route path="/FRLyon5" element={<FRLyon5 />} />
+        <Route path="/FRLyon6" element={<FRLyon6 />} />
+        <Route path="/FRLyon7" element={<FRLyon7 />} />
+        <Route path="/FRLyon8" element={<FRLyon8 />} />
+        <Route path="/FRLyon9" element={<FRLyon9 />} />
+        <Route path="/FRLyon10" element={<FRLyon10 />} />
+        <Route path="/FRLyon11" element={<FRLyon11 />} />
+        <Route path="/FRLyon12" element={<FRLyon12 />} />
+        <Route path="/FRLyon13" element={<FRLyon13 />} />
+        <Route path="/FRLyon14" element={<FRLyon14 />} />
+        <Route path="/FRendtoor" element={<FREndtoor />} />
         <Route path="/creatoor/CateCorsucci" element={<CateCorsucci />} />
       </Routes>
     </Router>
