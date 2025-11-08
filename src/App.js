@@ -32,6 +32,8 @@ import FR_Lyon13 from './FR_Lyon13';
 import FR_Lyon14 from './FR_Lyon14';
 import FR_Endtoor from './FR_Endtoor';
 import pandartooro from './pandartooro.png';
+import catecorsucci from './CateCorsucci.png';
+import CateCorsucci from './CateCorsucci';
 
 function Home() {
   return <body>
@@ -91,7 +93,7 @@ function Creatoor() {
     <p>So you will directly know how pleasant it was, what you can keep, and how you can propose better experiences!</p>
     <p>Of course, it takes time and effort to build a toor.</p>
     <p>Therefore we will share with you the benefits!</p>
-    <h3>Want to contribute?</h3>
+    <h3>Ready to contribute?</h3>
     <p>Join us <Link to="https://forms.gle/9HKQGTt4E9W2VLnD7"><strong>HERE</strong></Link>!</p>
   </body>
 }
@@ -141,6 +143,7 @@ function App() {
         <Route path="/FR_Lyon13" element={<FR_Lyon13 />} />
         <Route path="/FR_Lyon14" element={<FR_Lyon14 />} />
         <Route path="/FR_endtoor" element={<FR_Endtoor />} />
+        <Route path="/creatoor/CateCorsucci" element={<CateCorsucci />} />
       </Routes>
     </Router>
   );
