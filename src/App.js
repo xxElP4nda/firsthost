@@ -32,7 +32,6 @@ import FR_Lyon13 from './FR_Lyon13';
 import FR_Lyon14 from './FR_Lyon14';
 import FR_Endtoor from './FR_Endtoor';
 import pandartooro from './pandartooro.png';
-import catecorsucci from './CateCorsucci.png';
 import CateCorsucci from './CateCorsucci';
 
 function Home() {
