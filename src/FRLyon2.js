@@ -14,8 +14,8 @@ function StartPage() {
       <p>Merci de te diriger vers la <Link to="https://maps.app.goo.gl/HzXAAmtXxwczoHUz5">Place Saint-Jean</Link> où nous continuerons notre aventure.</p>
       <p>Pour cela, suis Google Maps et, une fois arrivé, <Link to="/Lyon4">appuie ici</Link>.</p>
       <p>Ou laisse-moi te guider.</p>
-      <p><Link to="/FR_Lyon3"><button>Je te suis !</button></Link>
-      <Link to="/FR_Lyon4"><button>Je suis déjà sur la Place Saint-Jean</button></Link></p>
+      <p><Link to="/FRLyon3"><button>Je te suis !</button></Link>
+      <Link to="/FRLyon4"><button>Je suis déjà sur la Place Saint-Jean</button></Link></p>
     </div>
   );
 }

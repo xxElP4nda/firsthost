@@ -32,7 +32,7 @@ function StartPage() {
   <p>Si tu ne réponds pas correctement, tu vas te faire RickRoller.</p>
   <p>Quelle est la hauteur de la tour métallique ?</p>
   <Link to="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><button>100 m</button></Link>
-  <Link to="/FR_Lyon8">
+  <Link to="/FRLyon8">
     <button>101 m</button></Link>
   <Link to="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><button>102 m</button></Link>
 </div>

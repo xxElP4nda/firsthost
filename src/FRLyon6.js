@@ -29,7 +29,7 @@ function StartPage() {
   <p>Quelle formule représente la théorie de la relativité d’Einstein ?</p>
   <Link to="https://media.tenor.com/geWyjrqNbdAAAAAM/cat-no.gif"><button>F = m.a</button></Link>
   <Link to="https://media1.tenor.com/m/lMbSkCq3HjQAAAAC/lara-croft-saying-no-tomb-raider.gif"><button>P.V = n.R.T</button></Link>
-  <Link to="/FR_Lyon7">
+  <Link to="/FRLyon7">
     <button>E = m.c²</button>
   </Link>
 </div>

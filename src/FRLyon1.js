@@ -18,7 +18,7 @@ function StartPage() {
      <p>Et là… boom ! De vieilles médailles et des pièces d’or. Pas encore le trésor de Gol D. Roger, mais déjà quelqueo chose !</p> 
      <p>Bon, pour continuer, je vais vous poser une question. C'est dans votre intérêt de répondre correctement.</p> 
      <p>Quel est le nom du cavalier ?</p> 
-     <Link to="/FR_Lyon2"> <button>Louis XIV, aussi connu sous le nom de Roi Soleil</button> </Link> 
+     <Link to="/FRLyon2"> <button>Louis XIV, aussi connu sous le nom de Roi Soleil</button> </Link> 
      <button>Astérix chevauchant son cheval Pégasix</button> 
      <button>Louis Croix-Vé-Bâton</button>
     </div>

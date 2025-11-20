@@ -26,7 +26,7 @@ Particulièrement nombreuses dans le Vieux-Lyon, elles permettaient, au Moyen Ag
   <p>Comment s’appelle mon ami ?</p>
   <Link to="https://media1.tenor.com/m/VUQaWMnKtgAAAAAd/no-let-me-think.gif"><button>Jean</button></Link>
   <Link to="https://media1.tenor.com/m/Ryw0q9D6ra0AAAAC/haha-gumichan.gif"><button>Pierre</button></Link>
-  <Link to="/FR_Lyon6">
+  <Link to="/FRLyon6">
     <button>Lucas</button>
   </Link>
 </div>

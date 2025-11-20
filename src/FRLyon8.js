@@ -31,7 +31,7 @@ function StartPage() {
   <p>Au fait, sais-tu ce qui différencie une cathédrale d’une basilique ?</p>
   <p>Dans une cathédrale siège un évêque. Une basilique, elle, a un lien fort avec l’histoire et le culte, et son titre est accordé par le Pape.</p>
   <h3>Tu en veux encore ?</h3>
-  <Link to="/FR_Lyon9">
+  <Link to="/FRLyon9">
     <button>Hit me baby one more time (au sens figuré of course) !</button>
   </Link>
   <Link to="/FR_endtoor"><button>Non merci, je veux rentrer, mes pieds me font mal !</button></Link>

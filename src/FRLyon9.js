@@ -20,7 +20,7 @@ function StartPage() {
   <p>Mais j’espère que ce fut une expérience amusante pour toi !</p>
   <p>Profite d’une dernière promenade dans <Link to="https://maps.app.goo.gl/xyc461XHosSJvjGT8">le Jardin de la Roseraie</Link>.</p>
   <p>À très bientôt !</p>
-  <Link to="/FR_Endtoor">
+  <Link to="/FREndtoor">
     <button>Merci, Artooro.</button>
   </Link>
 </div>

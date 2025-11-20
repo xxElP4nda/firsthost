@@ -31,7 +31,7 @@ function StartPage() {
   <p>Petite question piège : Comment dit-on "Soleil" en anglais ?</p>
   <Link to="https://media1.tenor.com/m/VUQaWMnKtgAAAAAd/no-let-me-think.gif"><button>Teletubbie baby</button></Link>
   <Link to="https://media1.tenor.com/m/Ryw0q9D6ra0AAAAC/haha-gumichan.gif"><button>Dark Vador</button></Link>
-  <Link to="/FR_Lyon4">
+  <Link to="/FRLyon4">
     <button>Sun</button>
   </Link>
 </div>

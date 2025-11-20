@@ -17,7 +17,7 @@ function StartPage() {
   <p>Ce sont des restaurants traditionnels lyonnais où tu peux goûter des spécialités locales comme le "Saucisson Lyonnais", l’"Œuf meurette" et le "Tablier de Sapeur".</p>
   <p>Bon appétit !</p>
   <p>Question : Qu’est-ce qui est rouge, peut boucher tes artères, te donne le diabète mais est totalement délicieux ?</p>
-  <Link to="/FR_Lyon5">
+  <Link to="/FRLyon5">
     <button>La Tartelette à la Praline</button>
   </Link>
   <Link to="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdvb3pvd3MxZ3ppeGZidWdrMHlvcDg1b3RwN3Y3OGZlN3d3emRreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ozoD1ByqYv7ARIk/giphy.gif"><button>Un Bloody Mary</button></Link>
